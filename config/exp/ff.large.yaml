@@ -1,0 +1,14 @@
+algorithm: ford_fulkerson
+runs:
+  num_runs: 150
+  hp_space: ff_large
+  batch_size: 32
+  early_stop: true
+  early_stop_patience: 10
+  train_steps: 5000
+  verbose: true
+  log_every: 100
+experiment:
+  name: ff
+  higher_is_better: false
+  num_valid_trials: 1
