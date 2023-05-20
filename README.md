@@ -1,5 +1,5 @@
 # Dual Algorithmic Reasoning
-Official code for the paper `Dual Algorithmic Reasoning`
+Official code for the paper [Dual Algorithmic Reasoning](https://openreview.net/forum?id=hhvkdRdWt1F)
 
 ## Dependencies
 `reqs/*` contains requirements files for `linux-cpu`, `macos-cpu` and `linux-gpu`
